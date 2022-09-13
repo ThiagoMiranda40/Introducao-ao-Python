@@ -11,9 +11,9 @@ idade = ''
 profissão = ''
 
 # ENTRADA DE DADOS PELO USUÁRIO
-nome = input("Digite seu nome: ")
-idade = input('Digite sua idade: ')
-profissão = input('Digite sua profissão: ')
+nome = input("Digite seu nome: \n") 
+idade = input('Digite sua idade: \n')
+profissão = input('Digite sua profissão: \n')
 
 # PROCESSAMENTO DE DADOS
 
