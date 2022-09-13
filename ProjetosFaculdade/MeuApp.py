@@ -2,7 +2,7 @@
 nome = 'Thiago Miranda'
 idade = 40
 profissão = 'Product Manager'
-print(nome, idade, profissão)
+
 
 
 
@@ -16,3 +16,4 @@ print(nome, idade, profissão)
 
 
 # SAÍDA DE DADOS
+print(nome, idade, profissão)
